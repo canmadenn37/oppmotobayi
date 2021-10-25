@@ -1,0 +1,14 @@
+C:\Users\mevlüt\source\repos\oppmotobayi\oppmotobayi\bin\Debug\netcoreapp3.1\oppmotobayi.exe
+C:\Users\mevlüt\source\repos\oppmotobayi\oppmotobayi\bin\Debug\netcoreapp3.1\oppmotobayi.deps.json
+C:\Users\mevlüt\source\repos\oppmotobayi\oppmotobayi\bin\Debug\netcoreapp3.1\oppmotobayi.runtimeconfig.json
+C:\Users\mevlüt\source\repos\oppmotobayi\oppmotobayi\bin\Debug\netcoreapp3.1\oppmotobayi.runtimeconfig.dev.json
+C:\Users\mevlüt\source\repos\oppmotobayi\oppmotobayi\bin\Debug\netcoreapp3.1\oppmotobayi.dll
+C:\Users\mevlüt\source\repos\oppmotobayi\oppmotobayi\bin\Debug\netcoreapp3.1\oppmotobayi.pdb
+C:\Users\mevlüt\source\repos\oppmotobayi\oppmotobayi\obj\Debug\netcoreapp3.1\oppmotobayi.csproj.AssemblyReference.cache
+C:\Users\mevlüt\source\repos\oppmotobayi\oppmotobayi\obj\Debug\netcoreapp3.1\oppmotobayi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mevlüt\source\repos\oppmotobayi\oppmotobayi\obj\Debug\netcoreapp3.1\oppmotobayi.AssemblyInfoInputs.cache
+C:\Users\mevlüt\source\repos\oppmotobayi\oppmotobayi\obj\Debug\netcoreapp3.1\oppmotobayi.AssemblyInfo.cs
+C:\Users\mevlüt\source\repos\oppmotobayi\oppmotobayi\obj\Debug\netcoreapp3.1\oppmotobayi.csproj.CoreCompileInputs.cache
+C:\Users\mevlüt\source\repos\oppmotobayi\oppmotobayi\obj\Debug\netcoreapp3.1\oppmotobayi.dll
+C:\Users\mevlüt\source\repos\oppmotobayi\oppmotobayi\obj\Debug\netcoreapp3.1\oppmotobayi.pdb
+C:\Users\mevlüt\source\repos\oppmotobayi\oppmotobayi\obj\Debug\netcoreapp3.1\oppmotobayi.genruntimeconfig.cache
